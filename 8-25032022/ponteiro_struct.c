@@ -15,7 +15,7 @@ void main(){
     pNovoCliente = &novoCliente;
 
     system("clear");
-
+    
     printf("Entre com o nome do cliente: \n");
     scanf("%s", &pNovoCliente->nome);
 
@@ -28,6 +28,5 @@ void main(){
     printf("O nome do cliente é: %s\n", pNovoCliente->nome);
     printf("O email do cliente é: %s\n", pNovoCliente->email);
     printf("A idade do cliente é: %d\n", pNovoCliente->idade);
-    
     
 }
