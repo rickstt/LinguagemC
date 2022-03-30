@@ -12,4 +12,5 @@ void main(){
 
     soma = (num1 + num2);
     printf("A soma da sua operação é: %d\n", soma);
+    
 }
