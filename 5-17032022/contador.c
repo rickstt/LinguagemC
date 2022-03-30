@@ -7,6 +7,7 @@ as repetições até o número definido, e em seguida o programa irá encerrar.*
 #include <stdio.h>
 int main(){
     int x = 0;
+    
     for(;x <= 10 ; x++){
         printf("%d\n", x);
     }
