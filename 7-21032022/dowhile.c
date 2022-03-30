@@ -10,6 +10,5 @@ int main(){
         x++;
     }while(x <= 50);
     
-
     return 0;
 }
