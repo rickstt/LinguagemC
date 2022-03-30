@@ -30,5 +30,6 @@ int main(){
     else{
         printf("Não há salário.\n");
     }
+    
     return 0;
 }
