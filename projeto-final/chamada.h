@@ -53,7 +53,7 @@ criação deve ser feita como ponteiro*/
 
     limpar();
     printf("Informe o valor do curso: ");
-    scanf("%f", pCurso->preco);
+    scanf("%.2f", pCurso->preco);
 
     /*Informações sobre a unidade escolar*/
 
