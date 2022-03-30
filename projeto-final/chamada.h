@@ -92,5 +92,4 @@ criação deve ser feita como ponteiro*/
     /*Finalizar arquivo*/
     fclose(arquivo);
 
-
 }
