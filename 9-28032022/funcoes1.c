@@ -12,6 +12,7 @@ void separadorHT(){
     }
     printf("\n");
 }
+
 void separadorLinha(){
     printf("\n");
     for(int x = 0 ; x <= 49 ; x++){
@@ -19,11 +20,13 @@ void separadorLinha(){
     }
     printf("\n");
 }
+
 void pularLinha(int qtdVezes){
     for(int i = 1 ; i <= qtdVezes ; i++){
         printf("\n");
     }
 }
+
 char* comparar(int v1, int v2){
     if(v1 > v2){
         return "O primeiro número é maior que o segundo.\n";
