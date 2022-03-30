@@ -39,12 +39,16 @@
 
 <br>
 
-> Na pasta Exercícios há alguns exercícios práticos da linguagem C, desde alguns exercícios básicos, até exercícios mais avançados.
-
-<br>
-
 > Na pasta de número *8-25(...)*. Há alguns exemplos de ponteiro e struct.
 
 <br>
 
 > Na pasta *9-28(...)*. Estão as funções e introdução da criação de bibliotecas.
+
+<br>
+
+> Na pasta Exercícios há alguns exercícios práticos da linguagem C, desde alguns exercícios básicos, até exercícios mais avançados.
+
+<br>
+
+> Na pasta projeto-final, Há o projeto de conclusão da linguagem C. Um programa que armazena informações de ursos digitados pelo usuário.
