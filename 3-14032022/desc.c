@@ -26,5 +26,6 @@ int main() {
         printf("Não há desconto\n"); //Interação com usuário
         printf("O salário líquido do funcionário é de: %.2f\n", salario); //Interação com usuário
     }
+    
     return 0;//fim
 }
