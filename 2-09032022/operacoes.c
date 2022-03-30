@@ -13,7 +13,7 @@ int main()
     printf("Digite o segundo valor a ser calculado:\n"); //Instrução na tela para o usuário
     scanf("%f", &y);                                    //Armazenar as informações digitadas pelo usuário
 
-    //A seguir os calculos definindo a função das variaveis
+    /*A seguir os calculos definindo a função das variaveis*/
     soma = (x + y);
     subtracao = (x - y);
     multiplicacao = (x * y);
