@@ -10,4 +10,5 @@ void main(){
     soma(valor,10);
     maiorvalor(valor,10);
     menorvalor(valor,10);
+    ordenar(valor,10);
 }

@@ -16,7 +16,7 @@ void maiorvalor(int array[], int tamanho){
     /*Começamos o laço com o número 1 porque o
     primeiro(0) elemento já está definido na
     var. M, então poupamos espaço e começamos
-    do número seguinte*/
+    do número seguinte.*/
     for(int i = 1 ; i < tamanho ; i++){
         if(array[i] > m){
             m = array[i];
@@ -26,6 +26,9 @@ void maiorvalor(int array[], int tamanho){
 
 }
 
+    /*Mesma lógica da aplicação anterior, porém
+    desta vez trocamos os sinais de maior para menor
+    para que assim possamos pegar o menor valor do array*/
 void menorvalor(int array[], int tamanho){
     int m = array[0];
 
@@ -37,8 +40,8 @@ void menorvalor(int array[], int tamanho){
     printf("O menor valor é : %d\n", m);
 }
 
-void ordenar(int valores[], int tamanho){
     
+void ordenar(int valores[], int tamanho){
     for(int j = 1 ; j < tamanho ; j++){
         int x = valores[j];
         int i;
@@ -46,5 +49,8 @@ void ordenar(int valores[], int tamanho){
             valores[i + 1] = valores[i];
         }
         valores[i+1] = x;
+    }
+    for(int p = 0 ; p < tamanho ; p++){
+        printf("%d - ", valores[p]);
     }
 }
