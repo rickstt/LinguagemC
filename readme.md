@@ -47,6 +47,10 @@
 
 <br>
 
+>Na pasta *10-31(...)*. Está o estudo e alguns exercícios sobre arrays.
+
+<br>
+
 > Na pasta Exercícios há alguns exercícios práticos da linguagem C, desde alguns exercícios básicos, até exercícios mais avançados.
 
 <br>
